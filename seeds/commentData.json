@@ -1,0 +1,62 @@
+[
+    {
+        "description": "iRobot! iRobot!",
+        "date_added": "January 17, 2024",
+        "user_id": 4,
+        "blog_post_id": 1
+    },
+    {
+        "description": "PC gamers for the win",
+        "date_added": "February 10, 2024",
+        "user_id": 2,
+        "blog_post_id": 2 
+    },
+    {
+        "description": "I use the same password for everything 😳",
+        "date_added": "March 22, 2024",
+        "user_id": 2,
+        "blog_post_id": 3 
+    },
+    {
+        "description": "I love my macbook air",
+        "date_added": "April, 19, 2024",
+        "user_id": 4,
+        "blog_post_id": 4 
+    },
+    {
+        "description": "Can't wait for the new Call of Duty!",
+        "date_added": "April 1, 2024",
+        "user_id": 1,
+        "blog_post_id": 2
+    },
+    {
+        "description": "🐬",
+        "date_added": "May 17, 2024",
+        "user_id": 1,
+        "blog_post_id": 5
+    },
+    {
+        "description": "😂😂😂",
+        "date_added": "November 10, 2024",
+        "user_id": 2,
+        "blog_post_id": 6
+    },
+    {
+        "description": "Doge to the moon 🌑",
+        "date_added": "December 25, 2024",
+        "user_id": 2,
+        "blog_post_id": 7 
+    },
+    {
+        "description": "Pass!",
+        "date_added": "November 1, 2024",
+        "user_id": 3,
+        "blog_post_id": 2
+    },
+    {
+        "description": "Comment your password and I'll tell you if it's strong enough 👍",
+        "date_added": "March 28, 2024",
+        "user_id": 1,
+        "blog_post_id": 3
+    }
+]

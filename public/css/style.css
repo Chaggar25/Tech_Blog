@@ -1,0 +1,100 @@
+/* Root color variables */
+:root {
+    --primary-background: #34554b;
+    --primary-text: #fff;
+    --secondary-background: #0E0E0E;
+    --accent: #4285F4;
+    --button: #9b91ff;
+    --border-color: #333333;
+    --highlight: #ef5675;
+}
+
+/* Custom Username Styles*/
+.custom-at {
+    font-size: 1rem;
+}
+
+body {
+    background-color: var(--primary-background);
+    color: var(--primary-text);
+}
+
+.custom-nav {
+    background-color: var(--secondary-background);
+}
+
+/* Custom Post Styles */
+.custom-card {
+    border: 2px solid var(--border-color);
+    border-radius: 8px;
+background-color: var(--secondary-background);
+    overflow: hidden;
+    box-shadow: 1px 4px 9px -1px rgba(0,0,0,0.75);
+-webkit-box-shadow: 1px 4px 9px -1px rgba(0,0,0,0.75);
+-moz-box-shadow: 1px 4px 9px -1px rgba(0,0,0,0.75);
+}
+
+/* Custom Form Styles */
+.custom-form {
+    padding: 20px;
+}
+
+/* Form Fields */
+.custom-form .form-group {
+    margin-bottom: 15px;
+}
+
+/* Labels */
+.custom-form label {
+    display: block;
+    font-weight: bold;
+}
+
+/* Text Inputs */
+.custom-form input[type="text"],
+.custom-form input[type="email"],
+.custom-form input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+}
+
+/* Login and Sign Up Buttons */
+.custom-form button {
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+/* Custom Button */
+.custom-button{
+    background-color: var(--button);
+}
+
+.custom-button:hover {
+    background-color: var(--highlight);
+}
+
+.custom-form {
+    margin-top: 75px;
+}
+
+/* Custom Modal Styles */
+.custom-modal {
+    background-color: var(--primary-background);
+}
+
+/* Sign up button styles */
+.btn-signup{
+    background: transparent;
+    border: none;
+    color: var(--accent);
+    text-decoration-line: underline;
+}
+
+/* Custom sign up form styles */
+#signupForm{
+    margin-top: 0;
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name":"BrianPizz",
+        "email":"b@p.net",
+        "password":"password"
+    },
+    {
+        "id": 2,
+        "name":"Ptouma",
+        "email":"p@t.com",
+        "password":"qwertyui"
+    },
+    {
+        "id": 3,
+        "name":"MR. O",
+        "email":"camo@gmail.com",
+        "password":"asdfghj"
+    },
+    {
+        "id": 4,
+        "name":"mlew",
+        "email":"m@gmail.com",
+        "password":"zxcvbn"
+    }
+]

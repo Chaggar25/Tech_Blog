@@ -1,0 +1,44 @@
+[
+    {
+        "title":"The Future of Artificial Intelligence",
+        "description":"Robots are taking over, and I'm here for it! 🤖 The advancements in robotics are incredible, from healthcare to manufacturing. ",
+        "date_created":"January 15, 2023",
+        "user_id": 1
+    },
+    {
+        "title":"🔥 Breaking News",
+        "description":"Rumor has it that the next-gen gaming console is going to be a game-changer! Can't wait to see what's in store. 🎮",
+        "date_created":"February 7, 2023",
+        "user_id": 1
+    },
+    {
+        "title":"Stay secure online, folks! 🔒",
+        "description":"Always use strong, unique passwords and enable two-factor authentication. Let's protect our digital lives. ",
+        "date_created":"March 22, 2023",
+        "user_id": 4
+    },
+    {
+        "title":"🚀 Rumor mill alert",
+        "description":"Is a new, super-thin laptop on the horizon? We're hearing whispers of a game-changing design. Stay tuned!",
+        "date_created":"April 18, 2023",
+        "user_id": 2
+    },
+    {
+        "title":"Big data is where it's at! 📊",
+        "description":"The insights we can glean from massive data sets are changing the way businesses operate.",
+        "date_created":"May 12, 2023",
+        "user_id": 3
+    },
+    {
+        "title":"Coding jokes",
+        "description":"When your code finally compiles without errors, it's like winning the programming lottery! 🙌💻 ",
+        "date_created":"June 10, 2023",
+        "user_id": 1
+    },
+    {
+        "title":"Crypto enthusiasts",
+        "description":"We're riding the blockchain wave to financial freedom! 🌊💰 What's your go-to cryptocurrency for the long haul?",
+        "date_created":"July 5, 2023",
+        "user_id": 3
+    }
+]
